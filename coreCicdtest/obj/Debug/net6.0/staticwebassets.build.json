@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HmhULUgkjJPQAm8+wV4wgwgCNrx4tbmjKkabmU5iH3Q=",
+  "Source": "coreCicdtest",
+  "BasePath": "_content/coreCicdtest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
